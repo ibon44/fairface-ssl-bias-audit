@@ -28,8 +28,7 @@ La tarea evaluada es la **clasificación de género** a partir de embeddings con
 
 ```
 .
-├── notebooks/
-│   └── equity_bias_analysis.ipynb   # análisis completo, de principio a fin
+├── equity_bias_analysis.ipynb   # análisis completo, de principio a fin
 ├── requirements.txt
 ├── LICENSE
 └── README.md
@@ -38,7 +37,7 @@ La tarea evaluada es la **clasificación de género** a partir de embeddings con
 ## Cómo ejecutarlo
 
 ```bash
-git clone https://github.com/<tu-usuario>/<tu-repo>.git
+git clone https://github.com/ibon44/fairface-ssl-bias-audit.git
 cd <tu-repo>
 
 python -m venv .venv
