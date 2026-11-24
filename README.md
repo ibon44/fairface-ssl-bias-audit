@@ -38,7 +38,7 @@ La tarea evaluada es la **clasificación de género** a partir de embeddings con
 
 ```bash
 git clone https://github.com/ibon44/fairface-ssl-bias-audit.git
-cd <tu-repo>
+cd fairface-ssl-bias-audit
 
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
