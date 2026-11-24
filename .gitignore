@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos y artefactos pesados
+data/
+*.pt
+*.pth
+*.safetensors
+.cache/
+
+# Salidas generadas por el notebook (se regeneran al ejecutarlo)
+gradcam_comparison.png
+gradcam_bias_*.png
+
+# SO / editores
+.DS_Store
+.vscode/
+.idea/
