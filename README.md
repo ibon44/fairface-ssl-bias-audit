@@ -44,7 +44,7 @@ python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
-jupyter lab notebooks/equity_bias_analysis.ipynb
+jupyter lab equity_bias_analysis.ipynb
 ```
 
 - El notebook se entrega **sin salidas**: ejecútalo de arriba abajo (≈10–15 min en una T4) para generar resultados y redactar la sección de conclusiones.
